@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+figure {
+  img {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin: 0 auto;
+  }
+
+  figcaption {
+    text-align: center;
+    color: #555;
+  }
+}
+
+@media print, screen and (min-width: 600px) {
+  figure {
+    float: right;
+    margin: 0 0 1rem 1rem;
+  }
+}

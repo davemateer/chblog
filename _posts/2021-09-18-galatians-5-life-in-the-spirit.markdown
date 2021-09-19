@@ -4,7 +4,7 @@ title:  "Life in the Spirit (Galatians 5:13-26)"
 date:   2017-08-06
 categories: sermons
 ---
-*The following is a sermon transcript. The tone can be expected to be informal.*
+{% include sermon-disclaimer.md %}
 
 # Introduction: Treating symptoms vs. disease
 
