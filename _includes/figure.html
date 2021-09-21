@@ -1,4 +1,4 @@
-<figure>
+<figure {% if include.class %} class="{{ include.class }}" {% endif %}>
   <img src="{{ include.src }}" alt="" />
   <figcaption>{{ include.caption }}</figcaption>
 </figure>

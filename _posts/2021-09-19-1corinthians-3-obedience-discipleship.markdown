@@ -36,7 +36,7 @@ Before we read the passage, just a few points of background to help us follow wh
 
 Our family has lived back in Pennsylvania for over 6 years now. Before that, however, we were in Florida for just about 4 years. And during the entire time we lived down there, right along Interstate 4—which is one of the main roads into Orlando—there was this really conspicuous unfinished 18-floor office tower. It was nicknamed the “Eyesore on I-4”. It had a foundation, and most of the steel framing shell, but then only like an eighth of the building had any walls, a bright reflective glass; the rest of the building was open to the elements. And it was that way for like 10 years.
 
-{% include figure.html src="/assets/images/eyesore_i4.jpg" caption="Eyesore on I-4" %}
+{% include figure.html src="/assets/images/eyesore_i4.jpg" caption="Eyesore on I-4" class="right-col" %}
 
 Many of you know the parable in the Bible were Jesus talks about the man who started to build a tower but then didn’t plan well and left it unfinished. This was straight out of that. Every pastor in the central Florida area had the perfect illustration when preaching on that text. Which was really ironic because the building was owned by a televangelist ministry, so, you know ... you should know better. You need to build with a plan, with care.
 
