@@ -16,6 +16,11 @@ figure {
   }
 }
 
+hr.footnotes {
+  margin: 2rem 0;
+  width: 50%;
+}
+
 @media print, screen and (min-width: 600px) {
   figure.right-col {
     float: right;
