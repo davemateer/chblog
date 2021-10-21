@@ -3,9 +3,13 @@ layout: post
 title: The eternal state of the church (Revelation 21:9–11, 22–27; 22:1–5)
 date: 2019-05-26
 categories: sermons
+preview:
+  On October 30, 1938, listeners to the CBS radio network had their regular
+  programming interrupted by a news report of strange explosions having been
+  observed on Mars. The regular radio program resumed but was interrupted again
+  with another news report of a strange object crashing into a farm in New
+  Jersey.
 ---
-
-{% include sermon-disclaimer.md %}
 
 > One of the seven angels who had the seven bowls full of the seven last plagues
 > came and said to me, “Come, I will show you the bride, the wife of the Lamb.”

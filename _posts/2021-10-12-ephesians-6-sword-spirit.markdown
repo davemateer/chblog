@@ -3,6 +3,14 @@ layout: post
 title: The Sword is the Spirit
 date: 2011-02-12
 categories: articles
+preview:
+  This article argues for an interpretation of the final metaphor (the sword of
+  the Spirit) that differs from the way it is commonly understood. It will be
+  argued that this alternate interpretation better maintains the consistency of
+  the underlying metaphorical structure, permits the most natural
+  pronoun-antecedent agreement, maintains the flow of the argument, and
+  reinforces a doctrine that is generally underemphasized in many contemporary
+  churches.
 ---
 
 > “Stand firm therefore, having girded your loins with truth, and having put on

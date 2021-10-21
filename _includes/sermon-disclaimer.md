@@ -1,1 +1,0 @@
-*The following is a sermon transcript. The tone can be expected to be informal.*

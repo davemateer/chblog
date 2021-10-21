@@ -1,0 +1,11 @@
+{% case page.categories.first %}
+    {% when "sermons" %}
+        {% assign description = "The following is a transcript of a sermon." %}
+    {% when "messages-sh" %}
+        {% assign description = "The following is a transcript of a message given to a senior high youth group." %}
+{% endcase %}
+{% if description %}
+<div class="post-type">
+    {{description}}
+</div>
+{% endif %}

@@ -32,6 +32,7 @@ url: "https://allyourbible.davem.dev" # the base hostname & protocol for your si
 theme: minima
 plugins:
   - jekyll-feed
+# show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
