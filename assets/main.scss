@@ -34,6 +34,10 @@ hr.footnotes {
   border-radius: 0.5rem;
 }
 
+.post-meta, .footer-col-wrapper {
+  color: #757575;
+}
+
 @media print, screen and (min-width: 600px) {
   figure.right-col {
     float: right;
