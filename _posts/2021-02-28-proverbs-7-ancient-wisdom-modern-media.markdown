@@ -4,9 +4,9 @@ title: Ancient Wisdom and Modern Media (Proverbs 17)
 date: 2021-02-28
 categories: high-school-youth
 preview:
-  There is a spiritual, supernatural dimension to sickness and wellness. This
-  passage is not trying to convince us that is true, it’s not making an argument
-  to persuade us; rather, that is the assumption of the passage.
+  Proverbs 17 provides us a chance to step back and consider a more ancient
+  wisdom and to think through how our tools of social media may have shaped us
+  without us even being aware that they are doing so.
 ---
 
 # Introduction: We shape our tools, and then our tools shape us
