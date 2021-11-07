@@ -114,8 +114,9 @@ Galatians, **the Gospel** is the Gospel issue. As the immediate context (and
 indeed, the entire letter) makes clear, the issue at stake is failing to grasp
 the newness of the New Covenant, and the (non-)role that the Mosaic Law has in
 justification. The Law, which is based on “doing” (Galatians 3:12), must not be
-confused with faith, or else we have misunderstood the Gospel. Paul goes on to
-argue one of the most shocking ramifications of the new economy:
+confused with faith, or else we have misunderstood the Gospel. This is the root
+of the hypocrisy that Paul is opposing. Paul goes on to argue one of the most
+shocking ramifications of the new economy:
 
 > If I rebuild what I destroyed, then I really would be a lawbreaker. For
 > through the law I died to the law so that I might live for God. (Galatians
@@ -143,22 +144,20 @@ away?
 I would argue that it does matter. We rightly object if someone misinterprets
 Scripture and arrives at a false conclusion, such as citing 1 Timothy 2:5[^2] to
 prove that Jesus is less than divine, or Titus 2:11[^3] to endorse universalism.
-But we shoot the leg out from underneath us if we adopt similar hermeneutic
-shortcuts, **even if the conclusions we arrive at happen to be true in and of
-themselves**.
+However, we must reject not only the **conclusions** of these errors, but also
+the hermeneutical **process**. Adopting a less rigorous approach to Scripture
+will, over time, have serious consequences for Biblical literacy, even if the
+conclusions we arrive at happen to be true in and of themselves.
 
 In teaching God’s Word, we are not only communicating what to think, but also
 modeling for others how to interpret the Bible for themselves. I fear that
-sometimes—in the name of being relevant—we emphasize _what_ to think at the
-expense of _how_ to think. One simple benchmark, I would suggest, is that the
-main point of the message should be the same as the main point of the passage
-itself.
-
-It’s not as if there are no passages of Scripture that speak directly to issues
-of prejudice or social justice. To cite a single example, the central question
-of the parable of the Good Samaritan is “Who is my neighbor?”, and the teaching
-of Jesus clearly answers that in a way that leaves no place for tribalism or
-religious justification of indifference.
+sometimes—in the name of being relevant—we emphasize to our listeners _what_ to
+think at the expense of _how_ to think. One simple benchmark, I would suggest,
+is that the main point of the message should be the same as the main point of
+the passage itself.[^4] Consistently modelling this approach is, I believe, a
+better way of equipping our listeners to discern the voice of God in their own
+study of his word, and guard against being “tossed here and there by waves and
+carried about by every wind of doctrine.”
 
 {% include footnote-break.html %}
 
@@ -171,3 +170,9 @@ religious justification of indifference.
     man Christ Jesus...”
 
 [^3]: “For the grace of God has appeared, bringing salvation to all people...”
+[^4]:
+    It’s not as if there are no passages of Scripture that speak directly to
+    issues of prejudice or social justice. To cite a single example, the central
+    question of the parable of the Good Samaritan is “Who is my neighbor?”, and
+    the teaching of Jesus clearly answers that in a way that leaves no place for
+    tribalism or religious justification of indifference.
