@@ -145,19 +145,16 @@ I would argue that it does matter. We rightly object if someone misinterprets
 Scripture and arrives at a false conclusion, such as citing 1 Timothy 2:5[^2] to
 prove that Jesus is less than divine, or Titus 2:11[^3] to endorse universalism.
 However, we must reject not only the **conclusions** of these errors, but also
-the hermeneutical **process**. Adopting a less rigorous approach to Scripture
-will, over time, have serious consequences for Biblical literacy, even if the
-conclusions we arrive at happen to be true in and of themselves.
+the hermeneutical **process**.
 
 In teaching God’s Word, we are not only communicating what to think, but also
-modeling for others how to interpret the Bible for themselves. I fear that
-sometimes—in the name of being relevant—we emphasize to our listeners _what_ to
-think at the expense of _how_ to think. One simple benchmark, I would suggest,
-is that the main point of the message should be the same as the main point of
-the passage itself.[^4] Consistently modelling this approach is, I believe, a
-better way of equipping our listeners to discern the voice of God in their own
-study of his word, and guard against being “tossed here and there by waves and
-carried about by every wind of doctrine.”
+modeling for others how to interpret the Bible for themselves. I fear that the
+currently popular way of interpreting passages like the ones above emphasizes to
+our listeners _what_ to think, with less concern for _how_ to think, and misses
+the main point of the passages themselves.[^4] Consistently modelling a more
+cautious approach is, I believe, a better way of equipping our listeners to
+discern the voice of God in their own study of his word, and guard against being
+“tossed here and there by waves and carried about by every wind of doctrine.”
 
 {% include footnote-break.html %}
 
