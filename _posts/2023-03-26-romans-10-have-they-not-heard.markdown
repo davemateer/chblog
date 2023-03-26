@@ -4,8 +4,10 @@ title: Have They Not Heard? (Romans 10:14–21)
 date: 2023-03-26
 categories: sermons
 preview:
-  We’ve probably all heard at one point—or said ourselves—the saying, “God hates
-  sin, but loves the sinner.” Is that a true or false statement?
+  How, then, can they call on the one they have not believed in? And how can
+  they believe in the one of whom they have not heard? And how can they hear
+  without someone preaching to them? And how can anyone preach unless they are
+  sent?
 ---
 
 # Introduction
