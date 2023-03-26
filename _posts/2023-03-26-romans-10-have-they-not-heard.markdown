@@ -60,10 +60,10 @@ intended to be heard in one listening.
 So I just want to throw that out there to anchor our understanding. Because if
 you’ve been around church circles for a bit, it’s likely that you’ve heard
 verses 14 and 15 used in the context of foreign missions. And there’s validity
-in that, and we’re eventually going to get there, but first we need to consider
-the original meaning. I guess that’s our super simple outline for this morning:
-(1) what the passage originally meant for the nation of Israel and (2) what it
-means for us.
+in that, and we’re eventually going to get there, but I want to get there
+through the lens of the original meaning. I guess that’s our super lame outline
+for this morning: (1) what the passage originally meant for the nation of Israel
+and (2) what it means for us.
 
 # Did Israel hear? Yes.
 
@@ -71,7 +71,6 @@ Starting in verse 14 Paul presents a series of rhetorical questions that reveal
 the necessary steps—at a human level (chapter 9 focused on the sovereignty of
 God; chapter 10 is the human angle)—for someone to come to salvation.
 
-- And here are the steps that Paul calls out:
 - The end goal is for someone to call on the name of the Lord (v.13)
 - In order to call on the name of the Lord, they have to believe (v.14)
 - In order to believe, they have to have heard about the Lord (v.14)
@@ -183,10 +182,10 @@ Here’s a short list I came up with; I’m sure you could add others.
 
 ## 1. Righteousness based on sincerity
 
-This is the rather common idea that it doesn’t matter too much the content of
-your belief, as long as you are faithful to your convictions and sincere. So,
-you know … Christianity, Islam, Hinduism, some form of
-live-in-harmony-with-naturism, activism, etc. As long as you are sincere, all
+This is a review from last week. It is rather common to believe that it doesn’t
+matter too much the content of your belief, as long as you are faithful to your
+convictions and sincere. So, you know … Christianity, Islam, Hinduism, some form
+of live-in-harmony-with-naturism, activism, etc. As long as you are sincere, all
 those are valid paths.
 
 Maybe ... but not if the Bible is true. That’s the point of verse 2. Israel was
