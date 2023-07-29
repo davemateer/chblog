@@ -4,7 +4,7 @@ title:
   Why you probably shouldn’t be using Ephesians 2 (or Galatians 2) to argue
   against racial prejudice
 date: 2021-10-25
-categories: articles
+categories: theology
 preview:
   Making this passage in Ephesians all about socioeconomic racial reconciliation
   unintentionally casts the God of the Old Testament as a repentant racist who
